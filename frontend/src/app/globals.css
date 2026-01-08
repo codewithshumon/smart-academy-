@@ -1,6 +1,0 @@
-@import "tailwindcss";
-
-/* stylelint-disable-next-line at-rule-blacklist */
-@theme {
-    --color-primary: #1d4ed8;
-}
